@@ -649,6 +649,7 @@ input::-webkit-inner-spin-button {
     width: 30%;
     background-color: #edde08;
     color: var(--blue);
+    border: none;
 }
 .footer .footerTwo {
     display: flex;
